@@ -51,7 +51,7 @@ Kami hadir sebagai mitra terpercaya untuk mendukung pertumbuhan bisnis Anda di e
 
 Anda dapat mengakses **Siber Shop Store** secara langsung melalui website resmi kami:
 
-👉 **[Kunjungi Website Resmi](https://www.sibershopstore.com)**
+👉 **[Kunjungi Website Resmi](https://www.sibershopstore.github.io/web/)**
 
 *(Ganti URL di atas dengan domain resmi Anda jika sudah tersedia)*
 
@@ -75,8 +75,8 @@ Kami sangat terbuka untuk masukan dan saran dari pengguna! Jika Anda memiliki id
 Jika Anda memiliki pertanyaan, ingin bekerja sama, atau tertarik dengan layanan kami, silakan hubungi kami melalui:
 
 - **WhatsApp**: [Klik di sini](https://wa.me/6285174155134)
-- **Email**: sibershop@example.com
-- **Website**: [Siber Shop Store](https://www.sibershopstore.com)
+- **Email**: sibershop.store@gmail.com
+- **Website**: [Siber Shop Store](https://www.sibershopstore.githu.io/web/)
 
 ---
 
